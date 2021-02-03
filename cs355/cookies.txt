@@ -1,0 +1,42 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+venus.cs.qc.cuny.edu	TRUE	/	FALSE	1999999999	BIGipServervenus.cs.app~venus.cs_pool	3033728149.20480.0000
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	i4gKyaBKswJbZEv2tQnQAG4bR%2FHAI5qo2vsincY0pri5Ve41L5pHDxX28LTHsdRUm3WQWKzNMYPZcWLE%2Bd3XdBcDKXS%2B%2BWqTnRX0ko7jSE%2F%2BT2h%2Fhbqccz%2FEPayYn49Q8DVxMCiotmisE%2BStH9prm8Kx8nf5HeJb4GlrqXF90I7%2FijN24gY9zZadRVGGabb8o10kN1rSNowCCN1jrs9y%2BnMa1XQPAGv53CZYh3%2FYEunvIU49V5M1QfZJMyFoe4yqdoav47hY4vqw1Z9zd6RPZQ%3D%3D--1K9XfIACNQLTHlhO--RHGfY%2BvSSaEXJ4PyBGA2Hw%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.1577534178.1607910163
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	US:NY:Queens:40.74:-73.75:v4
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	14-Dec-2020
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	US:NY:Queens:40.74:-73.75:v4
+af.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+de.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+eo.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+sv.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+ast.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+en.wikiversity.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+.wikiversity.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	14-Dec-2020
+.wikiversity.org	TRUE	/	FALSE	1999999999	GeoIP	US:NY:Queens:40.74:-73.75:v4
+de.wikiversity.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+fa.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+.wikia.com	TRUE	/	FALSE	1999999999	wikia_beacon_id	p4uMbrkSUD
+.wikia.com	TRUE	/	FALSE	1999999999	wikia_session_id	8xvFKl67TW
+logos.wikia.com	TRUE	/	FALSE	1999999999	SameSite	None
+.fandom.com	TRUE	/	FALSE	1999999999	wikia_beacon_id	VuN3RDjavN
+.fandom.com	TRUE	/	FALSE	1999999999	wikia_session_id	DZ8HVHWHCC
+.fandom.com	TRUE	/	FALSE	1999999999	Geo	{%22region%22:%22NY%22%2C%22country%22:%22US%22%2C%22continent%22:%22NA%22}
+hkbus.fandom.com	TRUE	/	FALSE	1999999999	SameSite	None
+hr.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+www.wikidata.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+.wikidata.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	14-Dec-2020
+.wikidata.org	TRUE	/	FALSE	1999999999	GeoIP	US:NY:Queens:40.74:-73.75:v4
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	ss0-commonswikiSession	q03vlnvn5ak09ae87ci4jdv2svf7qsta
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	q03vlnvn5ak09ae87ci4jdv2svf7qsta
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	14-Dec-2020
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	ss0-commonswikiSession	2teljik8g6qgbptjl1e76mndj74gl3ma
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	2teljik8g6qgbptjl1e76mndj74gl3ma
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+
